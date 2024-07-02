@@ -1,0 +1,7 @@
+application_data
+data
+lfw
+lfw.tgz
+siamesemodel.keras
+.ipynb_checkpoints
+training_checkpoints
